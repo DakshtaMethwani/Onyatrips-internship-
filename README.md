@@ -26,8 +26,11 @@ This repository can be useful for:
 
 ```
 Onyatrips-Internship/
-├── task-1-Git-&-GitHu-Basics-Training-and Practice/
-│   └── README.md
+├── task-1-Git-&-GitHub-Basics-Training-and-Practice/
+│   ├── README.md
+│   ├── COMMANDS-REFERENCE.md
+│   ├── TROUBLESHOOTING.md
+│   └── 06-advanced-techniques.md
 └── README.md
 ```
 
